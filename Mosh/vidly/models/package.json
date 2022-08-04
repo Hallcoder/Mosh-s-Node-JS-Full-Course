@@ -1,0 +1,10 @@
+{
+  "name": "handlers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "joi-objectid": "^4.0.2"
+  }
+}
